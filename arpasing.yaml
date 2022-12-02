@@ -1,0 +1,987 @@
+entries:
+- grapheme: あ
+  phonemes:
+  - a
+- grapheme: a
+  phonemes:
+  - a
+- grapheme: い
+  phonemes:
+  - i
+- grapheme: i
+  phonemes:
+  - i
+- grapheme: う
+  phonemes:
+  - u
+- grapheme: u
+  phonemes:
+  - u
+- grapheme: え
+  phonemes:
+  - e
+- grapheme: e
+  phonemes:
+  - e
+- grapheme: お
+  phonemes:
+  - o
+- grapheme: o
+  phonemes:
+  - o
+- grapheme: か
+  phonemes:
+  - ka
+- grapheme: ka
+  phonemes:
+  - ka
+- grapheme: き
+  phonemes:
+  - ki
+- grapheme: ki
+  phonemes:
+  - ki
+- grapheme: く
+  phonemes:
+  - ku
+- grapheme: ku
+  phonemes:
+  - ku
+- grapheme: け
+  phonemes:
+  - ke
+- grapheme: ke
+  phonemes:
+  - ke
+- grapheme: こ
+  phonemes:
+  - ko
+- grapheme: ko
+  phonemes:
+  - ko
+- grapheme: さ
+  phonemes:
+  - sa
+- grapheme: sa
+  phonemes:
+  - sa
+- grapheme: すぃ
+  phonemes:
+  - si
+- grapheme: si
+  phonemes:
+  - si
+- grapheme: す
+  phonemes:
+  - su
+- grapheme: su
+  phonemes:
+  - su
+- grapheme: せ
+  phonemes:
+  - se
+- grapheme: se
+  phonemes:
+  - se
+- grapheme: そ
+  phonemes:
+  - so
+- grapheme: so
+  phonemes:
+  - so
+- grapheme: た
+  phonemes:
+  - ta
+- grapheme: ta
+  phonemes:
+  - ta
+- grapheme: てぃ
+  phonemes:
+  - ti
+- grapheme: ti
+  phonemes:
+  - ti
+- grapheme: とぅ
+  phonemes:
+  - tu
+- grapheme: tu
+  phonemes:
+  - tu
+- grapheme: て
+  phonemes:
+  - te
+- grapheme: te
+  phonemes:
+  - te
+- grapheme: と
+  phonemes:
+  - to
+- grapheme: to
+  phonemes:
+  - to
+- grapheme: な
+  phonemes:
+  - na
+- grapheme: na
+  phonemes:
+  - na
+- grapheme: に
+  phonemes:
+  - ni
+- grapheme: ni
+  phonemes:
+  - ni
+- grapheme: ぬ
+  phonemes:
+  - nu
+- grapheme: nu
+  phonemes:
+  - nu
+- grapheme: ね
+  phonemes:
+  - ne
+- grapheme: ne
+  phonemes:
+  - ne
+- grapheme: の
+  phonemes:
+  - 'no'
+- grapheme: 'no'
+  phonemes:
+  - 'no'
+- grapheme: は
+  phonemes:
+  - ha
+- grapheme: ha
+  phonemes:
+  - ha
+- grapheme: ひ
+  phonemes:
+  - hi
+- grapheme: hi
+  phonemes:
+  - hi
+- grapheme: ふ
+  phonemes:
+  - hu
+- grapheme: hu
+  phonemes:
+  - hu
+- grapheme: へ
+  phonemes:
+  - he
+- grapheme: he
+  phonemes:
+  - he
+- grapheme: ほ
+  phonemes:
+  - ho
+- grapheme: ho
+  phonemes:
+  - ho
+- grapheme: ま
+  phonemes:
+  - ma
+- grapheme: ma
+  phonemes:
+  - ma
+- grapheme: み
+  phonemes:
+  - mi
+- grapheme: mi
+  phonemes:
+  - mi
+- grapheme: む
+  phonemes:
+  - mu
+- grapheme: mu
+  phonemes:
+  - mu
+- grapheme: め
+  phonemes:
+  - me
+- grapheme: me
+  phonemes:
+  - me
+- grapheme: も
+  phonemes:
+  - mo
+- grapheme: mo
+  phonemes:
+  - mo
+- grapheme: や
+  phonemes:
+  - ya
+- grapheme: ya
+  phonemes:
+  - ya
+- grapheme: ゆ
+  phonemes:
+  - yu
+- grapheme: yu
+  phonemes:
+  - yu
+- grapheme: よ
+  phonemes:
+  - yo
+- grapheme: yo
+  phonemes:
+  - yo
+- grapheme: ら
+  phonemes:
+  - ra
+- grapheme: ra
+  phonemes:
+  - ra
+- grapheme: り
+  phonemes:
+  - ri
+- grapheme: ri
+  phonemes:
+  - ri
+- grapheme: る
+  phonemes:
+  - ru
+- grapheme: ru
+  phonemes:
+  - ru
+- grapheme: れ
+  phonemes:
+  - re
+- grapheme: re
+  phonemes:
+  - re
+- grapheme: ろ
+  phonemes:
+  - ro
+- grapheme: ro
+  phonemes:
+  - ro
+- grapheme: わ
+  phonemes:
+  - wa
+- grapheme: wa
+  phonemes:
+  - wa
+- grapheme: うぉ
+  phonemes:
+  - wo
+- grapheme: wo
+  phonemes:
+  - wo
+- grapheme: を
+  phonemes:
+  - o
+- grapheme: が
+  phonemes:
+  - ga
+- grapheme: ga
+  phonemes:
+  - ga
+- grapheme: ぎ
+  phonemes:
+  - gi
+- grapheme: gi
+  phonemes:
+  - gi
+- grapheme: ぐ
+  phonemes:
+  - gu
+- grapheme: gu
+  phonemes:
+  - gu
+- grapheme: げ
+  phonemes:
+  - ge
+- grapheme: ge
+  phonemes:
+  - ge
+- grapheme: ご
+  phonemes:
+  - go
+- grapheme: go
+  phonemes:
+  - go
+- grapheme: ざ
+  phonemes:
+  - za
+- grapheme: za
+  phonemes:
+  - za
+- grapheme: ずぃ
+  phonemes:
+  - zi
+- grapheme: zi
+  phonemes:
+  - zi
+- grapheme: ず
+  phonemes:
+  - zu
+- grapheme: zu
+  phonemes:
+  - zu
+- grapheme: ぜ
+  phonemes:
+  - ze
+- grapheme: ze
+  phonemes:
+  - ze
+- grapheme: ぞ
+  phonemes:
+  - zo
+- grapheme: zo
+  phonemes:
+  - zo
+- grapheme: だ
+  phonemes:
+  - da
+- grapheme: da
+  phonemes:
+  - da
+- grapheme: でぃ
+  phonemes:
+  - di
+- grapheme: di
+  phonemes:
+  - di
+- grapheme: どぅ
+  phonemes:
+  - du
+- grapheme: du
+  phonemes:
+  - du
+- grapheme: で
+  phonemes:
+  - de
+- grapheme: de
+  phonemes:
+  - de
+- grapheme: ど
+  phonemes:
+  - do
+- grapheme: do
+  phonemes:
+  - do
+- grapheme: ば
+  phonemes:
+  - ba
+- grapheme: ba
+  phonemes:
+  - ba
+- grapheme: び
+  phonemes:
+  - bi
+- grapheme: bi
+  phonemes:
+  - bi
+- grapheme: ぶ
+  phonemes:
+  - bu
+- grapheme: bu
+  phonemes:
+  - bu
+- grapheme: べ
+  phonemes:
+  - be
+- grapheme: be
+  phonemes:
+  - be
+- grapheme: ぼ
+  phonemes:
+  - bo
+- grapheme: bo
+  phonemes:
+  - bo
+- grapheme: ぱ
+  phonemes:
+  - pa
+- grapheme: pa
+  phonemes:
+  - pa
+- grapheme: ぴ
+  phonemes:
+  - pi
+- grapheme: pi
+  phonemes:
+  - pi
+- grapheme: ぷ
+  phonemes:
+  - pu
+- grapheme: pu
+  phonemes:
+  - pu
+- grapheme: ぺ
+  phonemes:
+  - pe
+- grapheme: pe
+  phonemes:
+  - pe
+- grapheme: ぽ
+  phonemes:
+  - po
+- grapheme: po
+  phonemes:
+  - po
+- grapheme: きゃ
+  phonemes:
+  - kya
+- grapheme: kya
+  phonemes:
+  - kya
+- grapheme: きゅ
+  phonemes:
+  - kyu
+- grapheme: kyu
+  phonemes:
+  - kyu
+- grapheme: きょ
+  phonemes:
+  - kyo
+- grapheme: kyo
+  phonemes:
+  - kyo
+- grapheme: しゃ
+  phonemes:
+  - sha
+- grapheme: sha
+  phonemes:
+  - sha
+- grapheme: し
+  phonemes:
+  - shi
+- grapheme: shi
+  phonemes:
+  - shi
+- grapheme: しゅ
+  phonemes:
+  - shu
+- grapheme: shu
+  phonemes:
+  - shu
+- grapheme: しょ
+  phonemes:
+  - sho
+- grapheme: sho
+  phonemes:
+  - sho
+- grapheme: ちゃ
+  phonemes:
+  - cha
+- grapheme: cha
+  phonemes:
+  - cha
+- grapheme: ち
+  phonemes:
+  - chi
+- grapheme: chi
+  phonemes:
+  - chi
+- grapheme: ちゅ
+  phonemes:
+  - chu
+- grapheme: chu
+  phonemes:
+  - chu
+- grapheme: ちょ
+  phonemes:
+  - cho
+- grapheme: cho
+  phonemes:
+  - cho
+- grapheme: つぁ
+  phonemes:
+  - tsa
+- grapheme: tsa
+  phonemes:
+  - tsa
+- grapheme: つぃ
+  phonemes:
+  - tsi
+- grapheme: tsi
+  phonemes:
+  - tsi
+- grapheme: つ
+  phonemes:
+  - tsu
+- grapheme: tsu
+  phonemes:
+  - tsu
+- grapheme: つぇ
+  phonemes:
+  - tse
+- grapheme: tse
+  phonemes:
+  - tse
+- grapheme: つぉ
+  phonemes:
+  - tso
+- grapheme: tso
+  phonemes:
+  - tso
+- grapheme: にゃ
+  phonemes:
+  - nya
+- grapheme: nya
+  phonemes:
+  - nya
+- grapheme: にゅ
+  phonemes:
+  - nyu
+- grapheme: nyu
+  phonemes:
+  - nyu
+- grapheme: にょ
+  phonemes:
+  - nyo
+- grapheme: nyo
+  phonemes:
+  - nyo
+- grapheme: ひゃ
+  phonemes:
+  - hya
+- grapheme: hya
+  phonemes:
+  - hya
+- grapheme: ひゅ
+  phonemes:
+  - hyu
+- grapheme: hyu
+  phonemes:
+  - hyu
+- grapheme: ひょ
+  phonemes:
+  - hyo
+- grapheme: hyo
+  phonemes:
+  - hyo
+- grapheme: ふぁ
+  phonemes:
+  - fa
+- grapheme: fa
+  phonemes:
+  - fa
+- grapheme: ふぃ
+  phonemes:
+  - fi
+- grapheme: fi
+  phonemes:
+  - fi
+- grapheme: ふぇ
+  phonemes:
+  - fe
+- grapheme: fe
+  phonemes:
+  - fe
+- grapheme: ふぉ
+  phonemes:
+  - fo
+- grapheme: fo
+  phonemes:
+  - fo
+- grapheme: みゃ
+  phonemes:
+  - mya
+- grapheme: mya
+  phonemes:
+  - mya
+- grapheme: みゅ
+  phonemes:
+  - myu
+- grapheme: myu
+  phonemes:
+  - myu
+- grapheme: みょ
+  phonemes:
+  - myo
+- grapheme: myo
+  phonemes:
+  - myo
+- grapheme: りゃ
+  phonemes:
+  - rya
+- grapheme: rya
+  phonemes:
+  - rya
+- grapheme: りゅ
+  phonemes:
+  - ryu
+- grapheme: ryu
+  phonemes:
+  - ryu
+- grapheme: りょ
+  phonemes:
+  - ryo
+- grapheme: ryo
+  phonemes:
+  - ryo
+- grapheme: ぎゃ
+  phonemes:
+  - gya
+- grapheme: gya
+  phonemes:
+  - gya
+- grapheme: ぎゅ
+  phonemes:
+  - gyu
+- grapheme: gyu
+  phonemes:
+  - gyu
+- grapheme: ぎょ
+  phonemes:
+  - gyo
+- grapheme: gyo
+  phonemes:
+  - gyo
+- grapheme: じゃ
+  phonemes:
+  - ja
+- grapheme: ja
+  phonemes:
+  - ja
+- grapheme: じ
+  phonemes:
+  - ji
+- grapheme: ji
+  phonemes:
+  - ji
+- grapheme: じゅ
+  phonemes:
+  - ju
+- grapheme: ju
+  phonemes:
+  - ju
+- grapheme: じょ
+  phonemes:
+  - jo
+- grapheme: jo
+  phonemes:
+  - jo
+- grapheme: びゃ
+  phonemes:
+  - bya
+- grapheme: bya
+  phonemes:
+  - bya
+- grapheme: びゅ
+  phonemes:
+  - byu
+- grapheme: byu
+  phonemes:
+  - byu
+- grapheme: びょ
+  phonemes:
+  - byo
+- grapheme: byo
+  phonemes:
+  - byo
+- grapheme: ぴゃ
+  phonemes:
+  - pya
+- grapheme: pya
+  phonemes:
+  - pya
+- grapheme: ぴゅ
+  phonemes:
+  - pyu
+- grapheme: pyu
+  phonemes:
+  - pyu
+- grapheme: ぴょ
+  phonemes:
+  - pyo
+- grapheme: pyo
+  phonemes:
+  - pyo
+- grapheme: ん
+  phonemes:
+  - N
+- grapheme: N
+  phonemes:
+  - N
+symbols:
+- symbol: a
+  type: vowel
+- symbol: i
+  type: vowel
+- symbol: u
+  type: vowel
+- symbol: e
+  type: vowel
+- symbol: o
+  type: vowel
+- symbol: k
+  type: fricative
+- symbol: ka
+  type: vowel
+- symbol: ki
+  type: vowel
+- symbol: ku
+  type: vowel
+- symbol: ke
+  type: vowel
+- symbol: ko
+  type: vowel
+- symbol: s
+  type: fricative
+- symbol: sa
+  type: vowel
+- symbol: si
+  type: vowel
+- symbol: su
+  type: vowel
+- symbol: se
+  type: vowel
+- symbol: so
+  type: vowel
+- symbol: t
+  type: fricative
+- symbol: ta
+  type: vowel
+- symbol: ti
+  type: vowel
+- symbol: tu
+  type: vowel
+- symbol: te
+  type: vowel
+- symbol: to
+  type: vowel
+- symbol: n
+  type: fricative
+- symbol: na
+  type: vowel
+- symbol: ni
+  type: vowel
+- symbol: nu
+  type: vowel
+- symbol: ne
+  type: vowel
+- symbol: 'no'
+  type: vowel
+- symbol: h
+  type: fricative
+- symbol: ha
+  type: vowel
+- symbol: hi
+  type: vowel
+- symbol: hu
+  type: vowel
+- symbol: he
+  type: vowel
+- symbol: ho
+  type: vowel
+- symbol: m
+  type: fricative
+- symbol: ma
+  type: vowel
+- symbol: mi
+  type: vowel
+- symbol: mu
+  type: vowel
+- symbol: me
+  type: vowel
+- symbol: mo
+  type: vowel
+- symbol: y
+  type: fricative
+- symbol: ya
+  type: vowel
+- symbol: yu
+  type: vowel
+- symbol: yo
+  type: vowel
+- symbol: r
+  type: fricative
+- symbol: ra
+  type: vowel
+- symbol: ri
+  type: vowel
+- symbol: ru
+  type: vowel
+- symbol: re
+  type: vowel
+- symbol: ro
+  type: vowel
+- symbol: w
+  type: fricative
+- symbol: wa
+  type: vowel
+- symbol: wo
+  type: vowel
+- symbol: g
+  type: fricative
+- symbol: ga
+  type: vowel
+- symbol: gi
+  type: vowel
+- symbol: gu
+  type: vowel
+- symbol: ge
+  type: vowel
+- symbol: go
+  type: vowel
+- symbol: z
+  type: fricative
+- symbol: za
+  type: vowel
+- symbol: zi
+  type: vowel
+- symbol: zu
+  type: vowel
+- symbol: ze
+  type: vowel
+- symbol: zo
+  type: vowel
+- symbol: d
+  type: fricative
+- symbol: da
+  type: vowel
+- symbol: di
+  type: vowel
+- symbol: du
+  type: vowel
+- symbol: de
+  type: vowel
+- symbol: do
+  type: vowel
+- symbol: b
+  type: fricative
+- symbol: ba
+  type: vowel
+- symbol: bi
+  type: vowel
+- symbol: bu
+  type: vowel
+- symbol: be
+  type: vowel
+- symbol: bo
+  type: vowel
+- symbol: p
+  type: fricative
+- symbol: pa
+  type: vowel
+- symbol: pi
+  type: vowel
+- symbol: pu
+  type: vowel
+- symbol: pe
+  type: vowel
+- symbol: po
+  type: vowel
+- symbol: ky
+  type: fricative
+- symbol: kya
+  type: vowel
+- symbol: kyu
+  type: vowel
+- symbol: kyo
+  type: vowel
+- symbol: sh
+  type: fricative
+- symbol: sha
+  type: vowel
+- symbol: shi
+  type: vowel
+- symbol: shu
+  type: vowel
+- symbol: sho
+  type: vowel
+- symbol: ch
+  type: fricative
+- symbol: cha
+  type: vowel
+- symbol: chi
+  type: vowel
+- symbol: chu
+  type: vowel
+- symbol: cho
+  type: vowel
+- symbol: ts
+  type: fricative
+- symbol: tsa
+  type: vowel
+- symbol: tsi
+  type: vowel
+- symbol: tsu
+  type: vowel
+- symbol: tse
+  type: vowel
+- symbol: tso
+  type: vowel
+- symbol: ny
+  type: fricative
+- symbol: nya
+  type: vowel
+- symbol: nyu
+  type: vowel
+- symbol: nyo
+  type: vowel
+- symbol: hy
+  type: fricative
+- symbol: hya
+  type: vowel
+- symbol: hyu
+  type: vowel
+- symbol: hyo
+  type: vowel
+- symbol: f
+  type: fricative
+- symbol: fa
+  type: vowel
+- symbol: fi
+  type: vowel
+- symbol: fe
+  type: vowel
+- symbol: fo
+  type: vowel
+- symbol: my
+  type: fricative
+- symbol: mya
+  type: vowel
+- symbol: myu
+  type: vowel
+- symbol: myo
+  type: vowel
+- symbol: ry
+  type: fricative
+- symbol: rya
+  type: vowel
+- symbol: ryu
+  type: vowel
+- symbol: ryo
+  type: vowel
+- symbol: gy
+  type: fricative
+- symbol: gya
+  type: vowel
+- symbol: gyu
+  type: vowel
+- symbol: gyo
+  type: vowel
+- symbol: j
+  type: fricative
+- symbol: ja
+  type: vowel
+- symbol: ji
+  type: vowel
+- symbol: ju
+  type: vowel
+- symbol: jo
+  type: vowel
+- symbol: by
+  type: fricative
+- symbol: bya
+  type: vowel
+- symbol: byu
+  type: vowel
+- symbol: byo
+  type: vowel
+- symbol: py
+  type: fricative
+- symbol: pya
+  type: vowel
+- symbol: pyu
+  type: vowel
+- symbol: pyo
+  type: vowel
+- symbol: N
+  type: vowel
