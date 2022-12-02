@@ -1,5 +1,6 @@
 ﻿text_file_encoding: utf-8
 portrait_opacity: 0.67000001668930054
+default_phonemizer: OpenUtau.Plugin.Builtin.ArpasingPhonemizer
 subbanks:
 - color: ''
   prefix: ''
