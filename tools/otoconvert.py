@@ -6,7 +6,7 @@ import json
 import pathlib
 import itertools
 
-from typing import List,Set,Dict
+from typing import List,Set,Dict,Union
 
 #载入otoconvert.json，并生成各音素列表
 externaldict=json.load(open(sys.argv[0].replace(".py",".json"),encoding="utf8"))
@@ -65,23 +65,7 @@ for CV in CValias:
     HCVotokey="- "+CValias.get(CV,CV)
     if(HCVotokey in inputdict):
         outputdict["- "+CV]=inputdict[HCVotokey]
-#字典反转去重
-#vsdxmfdict_r={}#{oto记号:[vsdxmf记号]}
-#for (vskey,otokey) in vsdxmfdict.items():
-#    vsdxmfdict_r[otokey]=vsdxmfdict_r.get(otokey,[])+[vskey]
-#转换
 
-#缺失的开头音用空白音频
-"""
-begins=[]
-print("====开头音====")
-for C in (Vs)-{""," "}:
-    if(not(" "+C in vsdxmfdict)):
-        print("开头音"+" "+C)
-        begins.append(" "+C)
-if(begins!=[]):
-    vsdxmf.append([begins,"empty.wav",1100,1300,1400,1500,1200])
-"""
 #输出oto文件
 with inputpath.parent.joinpath("oto.ini").open("w",encoding="utf8") as outputfile:
     for (key,otoline) in outputdict.items():
@@ -90,6 +74,34 @@ with inputpath.parent.joinpath("oto.ini").open("w",encoding="utf8") as outputfil
         otoline=[str(i) for i in otoline]
         outputfile.write("{}={}\n".format(otoline[0],",".join(otoline[1:])))
 
-#for i in lsddict.items():
-#    print(i)
-#    input()
+import yaml
+
+#symbols部分（音素定义）：
+symbols_set:Dict[str,str]=dict()# symbol=>type
+#C
+for C in Cs:
+    symbols_set[C]="fricative"
+#V
+for V in Valias:
+    symbols_set[V]="vowel"
+#CV
+for CV in CValias:
+    symbols_set[CV]="vowel"
+symbols:List[Dict[str,str]]=[{"symbol":i,"type":j} for (i,j) in symbols_set.items()]
+
+#entries部分（单词定义）
+entries_set:Dict[str,List[str]]={}
+#常规CV，不包含鼻音N M G J
+for (romaji,kana) in CValias.items():
+    entries_set[kana]=[romaji]
+    entries_set[romaji]=[romaji]
+#C
+for C in Cs:
+    entries_set[C]=[C]
+for V in Valias:
+    entries_set[V]=[V]
+entries:List[Dict[str,Union[str,List[str]]]]=[{"grapheme":i,"phonemes":j} for (i,j) in entries_set.items()]
+yaml.dump(
+    {"symbols":symbols,"entries":entries},
+    open("arpasing.yaml","w",encoding="utf8"),
+    allow_unicode=True)

@@ -263,15 +263,12 @@ entries:
 - grapheme: wa
   phonemes:
   - wa
-- grapheme: うぉ
+- grapheme: を
   phonemes:
   - wo
 - grapheme: wo
   phonemes:
   - wo
-- grapheme: を
-  phonemes:
-  - o
 - grapheme: が
   phonemes:
   - ga
@@ -434,6 +431,12 @@ entries:
 - grapheme: kyu
   phonemes:
   - kyu
+- grapheme: きぇ
+  phonemes:
+  - kye
+- grapheme: kye
+  phonemes:
+  - kye
 - grapheme: きょ
   phonemes:
   - kyo
@@ -458,6 +461,12 @@ entries:
 - grapheme: shu
   phonemes:
   - shu
+- grapheme: しぇ
+  phonemes:
+  - she
+- grapheme: she
+  phonemes:
+  - she
 - grapheme: しょ
   phonemes:
   - sho
@@ -482,6 +491,12 @@ entries:
 - grapheme: chu
   phonemes:
   - chu
+- grapheme: ちぇ
+  phonemes:
+  - che
+- grapheme: che
+  phonemes:
+  - che
 - grapheme: ちょ
   phonemes:
   - cho
@@ -530,6 +545,12 @@ entries:
 - grapheme: nyu
   phonemes:
   - nyu
+- grapheme: にぇ
+  phonemes:
+  - nye
+- grapheme: nye
+  phonemes:
+  - nye
 - grapheme: にょ
   phonemes:
   - nyo
@@ -548,6 +569,12 @@ entries:
 - grapheme: hyu
   phonemes:
   - hyu
+- grapheme: ひぇ
+  phonemes:
+  - hye
+- grapheme: hye
+  phonemes:
+  - hye
 - grapheme: ひょ
   phonemes:
   - hyo
@@ -590,6 +617,12 @@ entries:
 - grapheme: myu
   phonemes:
   - myu
+- grapheme: みぇ
+  phonemes:
+  - mye
+- grapheme: mye
+  phonemes:
+  - mye
 - grapheme: みょ
   phonemes:
   - myo
@@ -608,6 +641,12 @@ entries:
 - grapheme: ryu
   phonemes:
   - ryu
+- grapheme: りぇ
+  phonemes:
+  - rye
+- grapheme: rye
+  phonemes:
+  - rye
 - grapheme: りょ
   phonemes:
   - ryo
@@ -626,6 +665,12 @@ entries:
 - grapheme: gyu
   phonemes:
   - gyu
+- grapheme: ぎぇ
+  phonemes:
+  - gye
+- grapheme: gye
+  phonemes:
+  - gye
 - grapheme: ぎょ
   phonemes:
   - gyo
@@ -650,6 +695,12 @@ entries:
 - grapheme: ju
   phonemes:
   - ju
+- grapheme: じぇ
+  phonemes:
+  - je
+- grapheme: je
+  phonemes:
+  - je
 - grapheme: じょ
   phonemes:
   - jo
@@ -668,6 +719,12 @@ entries:
 - grapheme: byu
   phonemes:
   - byu
+- grapheme: びぇ
+  phonemes:
+  - bye
+- grapheme: bye
+  phonemes:
+  - bye
 - grapheme: びょ
   phonemes:
   - byo
@@ -686,6 +743,12 @@ entries:
 - grapheme: pyu
   phonemes:
   - pyu
+- grapheme: ぴぇ
+  phonemes:
+  - pye
+- grapheme: pye
+  phonemes:
+  - pye
 - grapheme: ぴょ
   phonemes:
   - pyo
@@ -698,7 +761,238 @@ entries:
 - grapheme: N
   phonemes:
   - N
+- grapheme: G
+  phonemes:
+  - G
+- grapheme: m
+  phonemes:
+  - m
+- grapheme: M
+  phonemes:
+  - M
+- grapheme: J
+  phonemes:
+  - J
+- grapheme: ら2
+  phonemes:
+  - la
+- grapheme: la
+  phonemes:
+  - la
+- grapheme: り2
+  phonemes:
+  - li
+- grapheme: li
+  phonemes:
+  - li
+- grapheme: る2
+  phonemes:
+  - lu
+- grapheme: lu
+  phonemes:
+  - lu
+- grapheme: れ2
+  phonemes:
+  - le
+- grapheme: le
+  phonemes:
+  - le
+- grapheme: ろ2
+  phonemes:
+  - lo
+- grapheme: lo
+  phonemes:
+  - lo
+- grapheme: じゃ2
+  phonemes:
+  - j0e
+- grapheme: j0a
+  phonemes:
+  - j0a
+- grapheme: じ2
+  phonemes:
+  - j0i
+- grapheme: j0i
+  phonemes:
+  - j0i
+- grapheme: じゅ2
+  phonemes:
+  - j0u
+- grapheme: j0u
+  phonemes:
+  - j0u
+- grapheme: j0e
+  phonemes:
+  - j0e
+- grapheme: じょ2
+  phonemes:
+  - j0o
+- grapheme: j0o
+  phonemes:
+  - j0o
+- grapheme: ざ2
+  phonemes:
+  - z0a
+- grapheme: z0a
+  phonemes:
+  - z0a
+- grapheme: ずぃ2
+  phonemes:
+  - z0i
+- grapheme: z0i
+  phonemes:
+  - z0i
+- grapheme: ず2
+  phonemes:
+  - z0u
+- grapheme: z0u
+  phonemes:
+  - z0u
+- grapheme: ぜ2
+  phonemes:
+  - z0e
+- grapheme: z0e
+  phonemes:
+  - z0e
+- grapheme: ぞ2
+  phonemes:
+  - z0o
+- grapheme: z0o
+  phonemes:
+  - z0o
+- grapheme: hy
+  phonemes:
+  - hy
+- grapheme: sh
+  phonemes:
+  - sh
+- grapheme: ch
+  phonemes:
+  - ch
+- grapheme: t
+  phonemes:
+  - t
+- grapheme: ky
+  phonemes:
+  - ky
+- grapheme: b
+  phonemes:
+  - b
+- grapheme: h
+  phonemes:
+  - h
+- grapheme: r
+  phonemes:
+  - r
+- grapheme: by
+  phonemes:
+  - by
+- grapheme: p
+  phonemes:
+  - p
+- grapheme: ry
+  phonemes:
+  - ry
+- grapheme: gy
+  phonemes:
+  - gy
+- grapheme: d
+  phonemes:
+  - d
+- grapheme: ny
+  phonemes:
+  - ny
+- grapheme: z
+  phonemes:
+  - z
+- grapheme: y
+  phonemes:
+  - y
+- grapheme: n
+  phonemes:
+  - n
+- grapheme: ts
+  phonemes:
+  - ts
+- grapheme: k
+  phonemes:
+  - k
+- grapheme: w
+  phonemes:
+  - w
+- grapheme: s
+  phonemes:
+  - s
+- grapheme: f
+  phonemes:
+  - f
+- grapheme: my
+  phonemes:
+  - my
+- grapheme: py
+  phonemes:
+  - py
+- grapheme: g
+  phonemes:
+  - g
+- grapheme: j
+  phonemes:
+  - j
 symbols:
+- symbol: hy
+  type: fricative
+- symbol: sh
+  type: fricative
+- symbol: ch
+  type: fricative
+- symbol: t
+  type: fricative
+- symbol: ky
+  type: fricative
+- symbol: b
+  type: fricative
+- symbol: h
+  type: fricative
+- symbol: r
+  type: fricative
+- symbol: by
+  type: fricative
+- symbol: p
+  type: fricative
+- symbol: ry
+  type: fricative
+- symbol: gy
+  type: fricative
+- symbol: m
+  type: fricative
+- symbol: d
+  type: fricative
+- symbol: ny
+  type: fricative
+- symbol: z
+  type: fricative
+- symbol: y
+  type: fricative
+- symbol: n
+  type: fricative
+- symbol: ts
+  type: fricative
+- symbol: k
+  type: fricative
+- symbol: w
+  type: fricative
+- symbol: s
+  type: fricative
+- symbol: f
+  type: fricative
+- symbol: my
+  type: fricative
+- symbol: py
+  type: fricative
+- symbol: g
+  type: fricative
+- symbol: j
+  type: fricative
 - symbol: a
   type: vowel
 - symbol: i
@@ -709,8 +1003,14 @@ symbols:
   type: vowel
 - symbol: o
   type: vowel
-- symbol: k
-  type: fricative
+- symbol: N
+  type: vowel
+- symbol: M
+  type: vowel
+- symbol: G
+  type: vowel
+- symbol: J
+  type: vowel
 - symbol: ka
   type: vowel
 - symbol: ki
@@ -721,8 +1021,6 @@ symbols:
   type: vowel
 - symbol: ko
   type: vowel
-- symbol: s
-  type: fricative
 - symbol: sa
   type: vowel
 - symbol: si
@@ -733,8 +1031,6 @@ symbols:
   type: vowel
 - symbol: so
   type: vowel
-- symbol: t
-  type: fricative
 - symbol: ta
   type: vowel
 - symbol: ti
@@ -745,8 +1041,6 @@ symbols:
   type: vowel
 - symbol: to
   type: vowel
-- symbol: n
-  type: fricative
 - symbol: na
   type: vowel
 - symbol: ni
@@ -757,8 +1051,6 @@ symbols:
   type: vowel
 - symbol: 'no'
   type: vowel
-- symbol: h
-  type: fricative
 - symbol: ha
   type: vowel
 - symbol: hi
@@ -769,8 +1061,6 @@ symbols:
   type: vowel
 - symbol: ho
   type: vowel
-- symbol: m
-  type: fricative
 - symbol: ma
   type: vowel
 - symbol: mi
@@ -781,16 +1071,12 @@ symbols:
   type: vowel
 - symbol: mo
   type: vowel
-- symbol: y
-  type: fricative
 - symbol: ya
   type: vowel
 - symbol: yu
   type: vowel
 - symbol: yo
   type: vowel
-- symbol: r
-  type: fricative
 - symbol: ra
   type: vowel
 - symbol: ri
@@ -801,14 +1087,10 @@ symbols:
   type: vowel
 - symbol: ro
   type: vowel
-- symbol: w
-  type: fricative
 - symbol: wa
   type: vowel
 - symbol: wo
   type: vowel
-- symbol: g
-  type: fricative
 - symbol: ga
   type: vowel
 - symbol: gi
@@ -819,8 +1101,6 @@ symbols:
   type: vowel
 - symbol: go
   type: vowel
-- symbol: z
-  type: fricative
 - symbol: za
   type: vowel
 - symbol: zi
@@ -831,8 +1111,6 @@ symbols:
   type: vowel
 - symbol: zo
   type: vowel
-- symbol: d
-  type: fricative
 - symbol: da
   type: vowel
 - symbol: di
@@ -843,8 +1121,6 @@ symbols:
   type: vowel
 - symbol: do
   type: vowel
-- symbol: b
-  type: fricative
 - symbol: ba
   type: vowel
 - symbol: bi
@@ -855,8 +1131,6 @@ symbols:
   type: vowel
 - symbol: bo
   type: vowel
-- symbol: p
-  type: fricative
 - symbol: pa
   type: vowel
 - symbol: pi
@@ -867,36 +1141,34 @@ symbols:
   type: vowel
 - symbol: po
   type: vowel
-- symbol: ky
-  type: fricative
 - symbol: kya
   type: vowel
 - symbol: kyu
   type: vowel
+- symbol: kye
+  type: vowel
 - symbol: kyo
   type: vowel
-- symbol: sh
-  type: fricative
 - symbol: sha
   type: vowel
 - symbol: shi
   type: vowel
 - symbol: shu
   type: vowel
+- symbol: she
+  type: vowel
 - symbol: sho
   type: vowel
-- symbol: ch
-  type: fricative
 - symbol: cha
   type: vowel
 - symbol: chi
   type: vowel
 - symbol: chu
   type: vowel
+- symbol: che
+  type: vowel
 - symbol: cho
   type: vowel
-- symbol: ts
-  type: fricative
 - symbol: tsa
   type: vowel
 - symbol: tsi
@@ -907,24 +1179,22 @@ symbols:
   type: vowel
 - symbol: tso
   type: vowel
-- symbol: ny
-  type: fricative
 - symbol: nya
   type: vowel
 - symbol: nyu
   type: vowel
+- symbol: nye
+  type: vowel
 - symbol: nyo
   type: vowel
-- symbol: hy
-  type: fricative
 - symbol: hya
   type: vowel
 - symbol: hyu
   type: vowel
+- symbol: hye
+  type: vowel
 - symbol: hyo
   type: vowel
-- symbol: f
-  type: fricative
 - symbol: fa
   type: vowel
 - symbol: fi
@@ -933,55 +1203,83 @@ symbols:
   type: vowel
 - symbol: fo
   type: vowel
-- symbol: my
-  type: fricative
 - symbol: mya
   type: vowel
 - symbol: myu
   type: vowel
+- symbol: mye
+  type: vowel
 - symbol: myo
   type: vowel
-- symbol: ry
-  type: fricative
 - symbol: rya
   type: vowel
 - symbol: ryu
   type: vowel
+- symbol: rye
+  type: vowel
 - symbol: ryo
   type: vowel
-- symbol: gy
-  type: fricative
 - symbol: gya
   type: vowel
 - symbol: gyu
   type: vowel
+- symbol: gye
+  type: vowel
 - symbol: gyo
   type: vowel
-- symbol: j
-  type: fricative
 - symbol: ja
   type: vowel
 - symbol: ji
   type: vowel
 - symbol: ju
   type: vowel
+- symbol: je
+  type: vowel
 - symbol: jo
   type: vowel
-- symbol: by
-  type: fricative
 - symbol: bya
   type: vowel
 - symbol: byu
   type: vowel
+- symbol: bye
+  type: vowel
 - symbol: byo
   type: vowel
-- symbol: py
-  type: fricative
 - symbol: pya
   type: vowel
 - symbol: pyu
   type: vowel
+- symbol: pye
+  type: vowel
 - symbol: pyo
   type: vowel
-- symbol: N
+- symbol: la
+  type: vowel
+- symbol: li
+  type: vowel
+- symbol: lu
+  type: vowel
+- symbol: le
+  type: vowel
+- symbol: lo
+  type: vowel
+- symbol: j0a
+  type: vowel
+- symbol: j0i
+  type: vowel
+- symbol: j0u
+  type: vowel
+- symbol: j0e
+  type: vowel
+- symbol: j0o
+  type: vowel
+- symbol: z0a
+  type: vowel
+- symbol: z0i
+  type: vowel
+- symbol: z0u
+  type: vowel
+- symbol: z0e
+  type: vowel
+- symbol: z0o
   type: vowel

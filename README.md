@@ -1,5 +1,5 @@
 # ALYS-jpn-plus
-This is proof-of-concept port of [ALYS-DB-001-JPN](https://labs.phundrak.com/ALYS/ALYS-DB-001-JPN) OpenUTAU voicebank running on EN ARPA phonemizer, to achieve high customizability.
+This is proof-of-concept OpenUTAU port of [ALYS-DB-001-JPN](https://labs.phundrak.com/ALYS/ALYS-DB-001-JPN) voicebank running on EN ARPA phonemizer, to achieve high customizability.
 
 ## How to use
 * Use OpenUTAU's EN ARPA phonemizer
